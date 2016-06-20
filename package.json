@@ -1,0 +1,22 @@
+{
+  "name": "cluster-shareMemory-demo",
+  "version": "0.1.0",
+  "description": "a cluster share memory demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Karolass",
+  "license": "MIT",
+  "keywords": [],
+  "engines": {
+      "node": "6.2.1"
+  },
+  "dependencies": {
+    "memored": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Karolass/node-cluster-shareMemory.git"
+  }
+}
